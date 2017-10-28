@@ -1,5 +1,6 @@
-@@ -0,0 +1,4 @@
 package pbo2;
 public class myFrame {
-    
+    String pesan;
+	int bilBulat;
+	double bilDesimal;
 }
