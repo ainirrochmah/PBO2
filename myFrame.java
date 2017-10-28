@@ -5,6 +5,8 @@ public class PBO2 {
       
       m.pesan = "Hallo...";
       m.bilBulat = 5;
-      m.bil.decimal = 3.14;
+      m.bilDecimal = 3.14;
+      
+      m.cetakAttribute();
     }
 }
